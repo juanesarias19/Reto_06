@@ -1,5 +1,4 @@
 # Reto_06
-Desarrollo del reto 6
 ---
 **Nota:** Los ejercicios del 1-6 se encuentran en el notebook anexo a este repositorio
 
